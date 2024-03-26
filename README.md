@@ -1,6 +1,4 @@
-# login-page-mysql
-
-## Banco de dados
+# Banco de dados
 
   create database Login;
   -- --------
